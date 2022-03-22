@@ -13,6 +13,13 @@ body {
   padding: 0;
 }
 
+main {
+  margin: 0px;
+  padding: 0px;
+  min-height: auto;
+  width: 100%;
+}
+
 img {
   width: 100%;
   border-radius: 12px;
