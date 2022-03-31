@@ -1,4 +1,4 @@
-* {
+/* * {
   font-family: outfit, sans-serif;
   font-weight: 40px;
 }
@@ -18,7 +18,7 @@ main {
   padding: 0px;
   min-height: auto;
   width: 100%;
-/* }
+}
 
 img {
   width: 100%;
