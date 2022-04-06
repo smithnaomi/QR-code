@@ -13,7 +13,7 @@ body {
   padding: 0;
 }
 
-/* main {
+main {
   margin: 0px;
   padding: 0px;
   min-height: auto;
@@ -25,4 +25,4 @@ img {
   border-radius: 12px;
   height: 300px;
   object-fit: cover;
-} */
+}
