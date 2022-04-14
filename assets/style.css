@@ -19,6 +19,15 @@ main {
   min-height: auto;
   width: 100%;
 }
+.card {
+  max-width: 300px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 14px;
+  border-radius: 12px;
+  box-shadow: 5px 5px 15px 5px rgba(0, 0, 0, 0.3);
+  text-align: center;
+}
 
 img {
   width: 100%;
