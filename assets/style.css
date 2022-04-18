@@ -43,3 +43,9 @@ img {
 .content h1 {
   font-size: 23px;
 }
+
+.content p {
+  font-size: 15px;
+  opacity: 80%;
+  padding: 10px;
+}
