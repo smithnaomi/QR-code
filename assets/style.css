@@ -54,3 +54,7 @@ img {
   margin: 10px;
   font-size: 10px;
 }
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
