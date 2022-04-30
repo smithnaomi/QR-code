@@ -94,7 +94,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Portfolio - [Naomi Smith](https://www.your-site.com)
+- Github - [Naomi Smith](https://www.your-site.com)
 - Frontend Mentor - [@NaomiSmith](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@thenewCoder](https://twitter.com/thenewCoder)
 
