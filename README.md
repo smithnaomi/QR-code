@@ -95,7 +95,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Github - [Naomi Smith](https://github.com/smithnaomi)
-- Frontend Mentor - [@NaomiSmith](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@NaomiSmith](https://www.frontendmentor.io/profile/smithnaomi)
 - Twitter - [@thenewCoder](https://twitter.com/thenewCoder)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
